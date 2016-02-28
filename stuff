@@ -1,0 +1,2 @@
+curl -H "Content-Type:application/json"--data '{"build":true}' -X POST
+https://registry.hub.docker.com/u/charlesfindlay/pluralsight-docker-ci/trigger/69edbb74-0e5a-46c9-865d-3af9e13feb64/
